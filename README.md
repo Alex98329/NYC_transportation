@@ -1,0 +1,1 @@
+This notebook demonstrates a technical workflow applied to NYC Department of Transportation (DOT) data. It includes loading and inspecting structured data, preprocessing and feature engineering (such as extracting month/day from date columns), handling null values, and analyzing service request distribution across boroughs and work types using bar plots and group-by aggregations.
